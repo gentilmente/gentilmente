@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Evaluapp**
 
-- 👨‍💻 All of my projects are available at [here](here)
+- 👨‍💻 All of my projects are available at github.com
 
 - 📝 I regulary write articles on [https://medium.com/@gentilmente](https://medium.com/@gentilmente)
 
