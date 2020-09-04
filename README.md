@@ -13,7 +13,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@gentilmente](https://medium.com/@gentilmente)
 
-- 💬 Ask me about **GAS**
+- 💬 Ask me about **Google Apps Script**
 
 - 📫 How to reach me **egentilemontes@gmail.com**
 
