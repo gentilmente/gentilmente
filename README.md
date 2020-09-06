@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gentilmente" alt="gentilmente" /> </p>
 
-- 🔭 I’m currently working on **[my page](https://github.com/gentilmente/gentilmente)**
+- 🔭 I’m currently working on **[my personal page](https://github.com/gentilmente/gentilmente)**
 
-- 🌱 I’m currently learning **[Svelte](https://svelte.dev/), Go, APIs**
+- 🌱 I’m currently learning **[Svelte](https://svelte.dev/), [Go](https://golang.org/), Public APIs**
 
-- 🤝 I’m looking for help with **Evaluapp**
+- 🤝 I’m looking for help with **[Evaluapp](https://gentilmente.github.io/evaluapp-landing/)**
 
 - 👨‍💻 All of my projects are available at github.com
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Google Apps Script**
 
-- 📫 How to reach me **egentilemontes@gmail.com**
+- 📫 How to reach me **egentilemontes (at) gmail com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
