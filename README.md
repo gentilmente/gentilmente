@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Gentile Montes</h1>
-<h3 align="center">I'm a problem solving old man</h3>
+<h3 align="center">I'm a problem solving man</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gentilmente" alt="gentilmente" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@gentilmente](https://medium.com/@gentilmente)
 
-- 💬 Ask me about **Google Apps Script**
+- 💬 Ask me about **[Google Apps Script](https://developers.google.com/apps-script)**
 
 - 📫 How to reach me **egentilemontes (at) gmail com**
 
