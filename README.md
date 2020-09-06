@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gentilmente" alt="gentilmente" /> </p>
 
-- 🔭 I’m currently working on **Repartija**
+- 🔭 I’m currently working on **my page(https://github.com/gentilmente/gentilmente)**
 
-- 🌱 I’m currently learning **Svelte, Go, APIs**
+- 🌱 I’m currently learning **Svelte(https://svelte.dev/), Go, APIs**
 
 - 🤝 I’m looking for help with **Evaluapp**
 
