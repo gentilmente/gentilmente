@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at github.com
 
-- 👨‍💻 Playing to be youtuber about programming for kids in [queseyo](https://www.youtube.com/channel/UCbIHCAtFH7EhTMfy-JMn4_Q) 
+- 👨‍💻 Playing to be youtuber about Maker culture & programming for kids in [queseyo](https://www.youtube.com/channel/UCbIHCAtFH7EhTMfy-JMn4_Q) 
 
 - 📝 I regulary write articles on [https://medium.com/@gentilmente](https://medium.com/@gentilmente)
 
