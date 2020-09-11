@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gentilmente" alt="gentilmente" /> </p>
 
-- 🔭 I’m currently working on **[my personal page](https://github.com/gentilmente/gentilmente)**
+- 🔭 I’m currently working on **[my personal page](https://github.com/gentilmente?tab=repositories)**
 
 - 🌱 I’m currently learning **[Svelte](https://svelte.dev/), [Go](https://golang.org/), Public APIs**
 
