@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **egentilemontes (at) gmail com**
 
-### Blogs posts
+### Tech I've used
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
