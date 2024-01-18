@@ -13,11 +13,17 @@
 
 - 👨‍💻 Playing to be YouTuber about Maker culture & programming for kids in [queseyo](https://www.youtube.com/channel/UCbIHCAtFH7EhTMfy-JMn4_Q) 
 
-- 📝 I used to write education & technology articles on [https://medium.com/@gentilmente](https://medium.com/@gentilmente)
+- 📝 I used to write education & technology articles on [https://medium.com/@gentilmente](https://medium.com/@gentilmente) <a href="https://medium.com/@gentilmente" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gentilmente" height="30" width="30" /></a>
 
 - 💬 Ask me about **[Google Apps Script](https://developers.google.com/apps-script)**
 
-- 📫 How to reach me **egentilemontes (at) gmail com**
+- My web UI experiments on [CodePen](https://codepen.io/gentilmente)
+
+- Sometimes I help on Stakoverflow <a href="https://stackoverflow.com/users/3712255" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3712255" height="30" width="30" /></a>
+
+- Checkout My LinkedIn <a href="https://linkedin.com/in/gentilmente" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gentilmente" height="30" width="30" /></a>
+
+- 📫 How to reach me **egentilemontes (at) gmail com** 
 
 ### Tech I've used
 <!-- BLOG-POST-LIST:START -->
@@ -49,10 +55,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gentilmente&show_icons=true" alt="gentilmente" /></p>
 
-<p align="center">
-<a href="https://codepen.io/gentilmente" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gentilmente" height="30" width="30" /></a>
-<a href="https://twitter.com/gentilmente" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gentilmente" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/gentilmente" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gentilmente" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/3712255" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3712255" height="30" width="30" /></a>
-<a href="https://medium.com/@gentilmente" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gentilmente" height="30" width="30" /></a>
-</p>
